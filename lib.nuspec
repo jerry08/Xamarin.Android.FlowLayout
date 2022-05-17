@@ -8,15 +8,18 @@
     <title>Xamarin.Android Binding Library - Flowlayout</title>
     <summary>Xamarin.Android Binding Library - Flowlayout</summary>
     <description>Xamarin.Android Binding Library - Flowlayout</description>
-    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <license type="expression">LGPL-3.0-only</license>
     <projectUrl>https://github.com/jerry08/Xamarin.Android.FlowLayout</projectUrl>
-    <iconUrl>https://avatars3.githubusercontent.com/u/25535951</iconUrl>
+    <icon>favicon.png</icon>
+    <readme>README.md</readme>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>Flowlayout 1.0.0</releaseNotes>
     <copyright>Copyright (c) 2018 Jerry Berry</copyright>
     <tags>flowlayout Jerry Berry Jerro Xamarin Binding Android flowlayout</tags>
   </metadata>
   <files>
-    <file src="bin/Release/Xamarin.Android.Flowlayout.dll" target="lib/MonoAndroid10/Xamarin.Android.Flowlayout.dll" />
+    <file src="Xamarin.Android.Flowlayout/bin/Release/Xamarin.Android.Flowlayout.dll" target="lib/MonoAndroid10/Xamarin.Android.Flowlayout.dll" />
+    <file src="favicon.png" target="favicon.png" />
+    <file src="README.md" target="README.md" />
   </files>
 </package>
