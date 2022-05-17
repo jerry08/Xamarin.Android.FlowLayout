@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.Android.Flowlayout</id>
+    <version>1.0.0.0</version>
+    <authors>Jerro</authors>
+    <owners>Jerro</owners>
+    <title>Xamarin.Android Binding Library - Flowlayout</title>
+    <summary>Xamarin.Android Binding Library - Flowlayout</summary>
+    <description>Xamarin.Android Binding Library - Flowlayout</description>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/NAXAM/expandablelayout-android-binding</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/25535951</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Flowlayout 1.0.0</releaseNotes>
+    <copyright>Copyright (c) 2018 Jerry Berry</copyright>
+    <tags>flowlayout Jerry Berry Jerro Xamarin Binding Android flowlayout</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/Xamarin.Android.Flowlayout.dll" target="lib/MonoAndroid10/Xamarin.Android.Flowlayout.dll" />
+  </files>
+</package>
