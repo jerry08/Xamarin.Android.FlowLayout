@@ -1,4 +1,6 @@
 # Android flow layout
+[![Version](https://img.shields.io/nuget/v/Xamarin.Android.Flowlayout.svg)](https://nuget.org/packages/Xamarin.Android.Flowlayout)
+[![Downloads](https://img.shields.io/nuget/dt/Xamarin.Android.Flowlayout.svg)](https://nuget.org/packages/Xamarin.Android.Flowlayout)
 
 ## Introduction
 
